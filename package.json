@@ -1,0 +1,12 @@
+{
+  "name": "@letsdeel/interfaces",
+  "version": "0.0.1",
+  "description": "Typescript shared interfaces library",
+  "main": "index.js",
+  "author": "lucas.yuri@deel.com",
+  "license": "MIT",
+  "exports": "./types",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}

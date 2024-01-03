@@ -1,0 +1,16 @@
+{
+  "include": ["./**/*.d.ts"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "lib": ["ES2020"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true,
+    "types": [],
+    "baseUrl": "./types",
+    "noEmit": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
